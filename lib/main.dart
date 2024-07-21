@@ -35,11 +35,9 @@ class _MyHomePageState extends State<MyHomePage> {
     return Scaffold(
       appBar: AppBar(
         backgroundColor: Colors.amber,
-        title: Text('ListView...'),
+        title: const Text('ListView...'),
       ),
-      body: Center(
 
-      ),
     );
   }
 }
