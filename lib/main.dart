@@ -37,7 +37,6 @@ class _MyHomePageState extends State<MyHomePage> {
         backgroundColor: Colors.amber,
         title: const Text('ListView...'),
       ),
-
     );
   }
 }
